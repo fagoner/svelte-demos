@@ -6,5 +6,5 @@ Here are some demo for svelte
 
 This is a demo for routing in svelte, using page.js
 Take it from: [jscrambler](https://blog.jscrambler.com/svelte-routing-with-page-js/)
-
+Other example: [codeships](https://codechips.me/svelte-routing-with-page-js-part-1/)
 
